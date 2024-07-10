@@ -1,5 +1,21 @@
 
-]	java:S125"<This block of commented-out lines of code should be removed.(¼ƒ†¿ûÿÿÿÿ8÷‘ªò†2
-X	java:S125"<This block of commented-out lines of code should be removed.(Âòù8ü‘ªò†2
-L	java:S106"+Replace this use of System.out by a logger.(¾Š ¢şÿÿÿÿ8’ªò†2
-L	java:S106"+Replace this use of System.out by a logger.(Ä·Š²ûÿÿÿÿ8£’ªò†2
+Å
+java:S1130"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(ø¶Ÿ®ûÿÿÿÿ8Îëô‰2J$05d06e89-fdfe-4115-a979-16f63a369ef9
+~	java:S125"<This block of commented-out lines of code should be removed.(Âòù8Ïëô‰2J$2f4b684f-0817-4270-90e3-a4c7427e59a2
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ù ãÿûÿÿÿÿ8Ïëô‰2J$e969510e-affe-4cb6-b5af-73586b0740c6
+~	java:S125"<This block of commented-out lines of code should be removed.(¿à“ï8Ğëô‰2J$fb18152c-c1d4-4edc-a92d-d390eca2680b
+ƒ	java:S125""<This block of commented-out lines of code should be removed.(ŸÚ°ÿÿÿÿÿÿ8Ğëô‰2J$89b422db-61e2-4b8e-8a8b-29f178d33a9e
+~	java:S125%"<This block of commented-out lines of code should be removed.(˜áø 8Ğëô‰2J$b50f327b-d7e0-4b5c-9a79-e389be6bb5f6
+~	java:S125*"<This block of commented-out lines of code should be removed.(èÁú÷8Ñëô‰2J$fd6bfe33-4f48-4b90-9110-ca47bd9e8c27
+ƒ	java:S1254"<This block of commented-out lines of code should be removed.(°ÆÓ¯øÿÿÿÿ8Óëô‰2J$4934e785-5f8b-492b-ae19-f2661cc69fed
+r	java:S106;"+Replace this use of System.out by a logger.(Åô˜ıüÿÿÿÿ8Ôëô‰2J$3f8e02d0-aac7-411b-8baf-350b1e3e4131
+r	java:S106C"+Replace this use of System.out by a logger.(¨–ˆ¶ùÿÿÿÿ8Öëô‰2J$eefc3096-5786-4572-ae47-52442cad66a9
+~	java:S125D"<This block of commented-out lines of code should be removed.(çÛ³à8Öëô‰2J$0465031c-1843-4ca6-b3eb-d47156fa0a44
+r	java:S106L"+Replace this use of System.out by a logger.(›Ö¿ùÿÿÿÿ8Øëô‰2J$797c0442-1849-4ca1-b605-d155957a9fdc
+r	java:S106V"+Replace this use of System.out by a logger.(’¥¼Ğüÿÿÿÿ8Úëô‰2J$e855c0ff-d9a6-4e59-b19b-6c414372b12c
+r	java:S106["+Replace this use of System.out by a logger.(Áú–›ûÿÿÿÿ8Ûëô‰2J$31075c40-8156-4ab1-9f8c-ca8f531c1fc9
+t
+java:S1128
+"1Remove this unused import 'java.math.BigInteger'.(»Çâ€8¯»Ÿô‰2J$cf39f749-b893-46d2-989e-11a30ab6d700
+p
+java:S1128"-Remove this unused import 'java.util.Base64'.(ëŠ»Õ8°»Ÿô‰2J$813272f2-4304-473e-9991-b0fab9f95d23

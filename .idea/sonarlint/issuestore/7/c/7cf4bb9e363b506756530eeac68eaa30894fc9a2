@@ -1,0 +1,24 @@
+
+†	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$ec3afdf9-efff-4f81-849c-0fc78caeff8c
+†	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$5fdaeb7d-1bc4-4787-9638-082c39df4321
+†	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$98e0622c-b54b-4868-8c8a-c078860c750c
+†	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$c5b1f5c2-1cd2-41b8-8484-b34eaf5823b7
+†	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$6e417e4c-23a6-4730-b7d1-63bb8b9fece2
+†	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$936fac17-5eb8-4b33-ba62-180a75e21a37
+†	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$1782ee7e-799b-43a9-8ed1-f007d169a3cf
+†	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$4812e7f4-da4a-49bd-b87c-b011cf15c25f
+€
+java:S2147!"DCombine this catch with the one at line 31, which has the same body.(Ë‡…¨J$d9c11e5a-1b8f-4397-a1c7-c387b5b2f0a9
+…
+java:S2147#"DCombine this catch with the one at line 33, which has the same body.(£İ´›ùÿÿÿÿJ$7e9d230f-01cf-44e7-b1d9-3e6eebb3a7b2
+…
+java:S2147%"DCombine this catch with the one at line 35, which has the same body.(“³ÛİüÿÿÿÿJ$ecd5966d-544a-4f1c-ae16-1ca2bb3506b6
+]	java:S125"<This block of commented-out lines of code should be removed.(Ûš¢ğøÿÿÿÿ8Ô•ğ‰2
+€
+java:S21472"DCombine this catch with the one at line 48, which has the same body.(çŞ¡ĞJ$0b513814-5e68-41dd-b926-264a7433629f
+€
+java:S2147>"DCombine this catch with the one at line 60, which has the same body.(çŞ¡ĞJ$169c20f0-328a-4a3e-8aa7-d01d2e63c561
+^
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“8Ú•ğ‰2
+u
+java:S1068"-Remove this unused "secretKey" private field.(”×¡Âÿÿÿÿÿ8–ë’ğ‰2J$da56898d-8b58-4fbc-91fc-6a36914410fe
